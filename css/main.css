@@ -5,12 +5,12 @@ h1 {
 h3 {
   color: gray;
 }
-
+p {
+  font-size: 24px;
+}
 
 body {
   font-family: 'Lobster', cursive;
-}
-iframe {
-  width: auto;
-  height: auto;
+  color: white;
+  background-color: black;
 }
